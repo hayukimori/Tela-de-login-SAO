@@ -18,4 +18,7 @@ Foi feita 100% com pyqt5 e Python, com um uso de `os` para identificar o nome de
 PS: o código está com comentários em Portugês Brasileiro.
 
 
+
+(Não é um sistema de login. Apenas interface)
+
 Mais em [github.com/hayukimori](https://github.com/hayukimori)
